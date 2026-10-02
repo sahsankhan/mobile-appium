@@ -1,0 +1,13 @@
+{
+  "name": "appium-android",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Appium Android journey for the Noah Cares APK: client schedules a ride, driver accepts it.",
+  "type": "module",
+  "scripts": {
+    "test": "node scripts/run-tests.mjs"
+  },
+  "devDependencies": {
+    "webdriverio": "^9.19.0"
+  }
+}
